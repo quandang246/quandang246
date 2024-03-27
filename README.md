@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Quan Dang]! 👋
+# Hi there, I'm Quan Dang 👋
 
 ## About Me ℹ️
-
-- 🎓 Computer Science graduate passionate about software development and machine learning.
+- 🇻🇳  I'm Vietnamese!
+- 🎓 Electronics and Telecommunication graduate passionate about software development and machine learning.
 - 💼 Currently working as a software engineer at [FPT Software].
 - 🌱 Always eager to learn and explore new technologies.
 - 📫 You can reach me at [danganhquan246@gmail.com].
