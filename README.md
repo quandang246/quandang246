@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 ## Fun Facts 😄
 
 - I love to travel and explore new cuisines.
-- I'm an avid reader.
-- I enjoy watching movies, running and playing video games  in my free time.
+- I enjoy watching movies, running and playing video games in my free time.
 
 ## Let's Connect! 🤝
 
